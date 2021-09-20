@@ -5,3 +5,5 @@ The relevant analysis code are located in jupyter notebooks. The latest iteratio
 The relevant template waveforms and raw data are located at `/home/awen/pulse_clipping` on the Wright server at Yale. It should be downloaded before running the notebooks. 
 
 `helper.py` contains many helper functions that calculate arrival time, PSD, etc, and are called throughout the analysis notebooks.
+
+`PROSPECT_clipping_analysis.pdf` is a short report detailing results so far, and explaining a bit about pulse clipping.  
